@@ -20,7 +20,7 @@ Topics include:
 * Support Vector Machines (including dual formulation)
 * Clustering Methods (k-Means, Hierarchical, DBSCAN, Fuzzy Clustering)
 * Expectation Maximization and Gaussian Mixture Models
-* Introductory discussion of modern topics (e.g., large language models)
+* Introductory discussion of modern topics
 
 ---
 
